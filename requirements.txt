@@ -1,0 +1,1 @@
+streamlit>=1.30.0pandas>=2.0.0plotly>=5.18.0requests>=2.31.0beautifulsoup4>=4.12.0lxml>=5.1.0
