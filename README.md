@@ -1,8 +1,10 @@
-# 🎬 Letterboxd Wrapped (Quick Edition) -
+# 🎬 Letterboxd Wrapped (Quick Edition)
+
 
 ## Your movie year in review, instantly.
 
 A Streamlit-powered web application that generates a "Spotify Wrapped" style report for your recent Letterboxd activity. No API keys required—just enter your username!
+
 
 ## ✨ Features
 
@@ -26,7 +28,9 @@ A Streamlit-powered web application that generates a "Spotify Wrapped" style rep
 
 📱 **Mobile Friendly:** Fully responsive design that looks great on phones.
 
+
 ## 🚀 Quick Start
+
 
 ### Prerequisites
 
@@ -70,6 +74,7 @@ Open your browser to http://localhost:8501.
 
 **Scraping/Parsing:** BeautifulSoup4 & Requests
 
+
 ## 📂 Project Structure
 
 letterboxd-wrapped/
@@ -100,6 +105,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Open a Pull Request
 
 ## ⚠️ Disclaimer
+
 This project is a fan-made creation and is not affiliated with, endorsed by, or sponsored by Letterboxd. Data is retrieved via public RSS feeds available on user profiles.
-📄 License
+
+## 📄 License
+
 Distributed under the MIT License. See LICENSE for more information.
