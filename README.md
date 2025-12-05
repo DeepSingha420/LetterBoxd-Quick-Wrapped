@@ -40,11 +40,14 @@ pip (Python package manager)
 ### Installation
 
 **Clone the repository:**
+
 git clone [https://github.com/DeepSingha420/LetterBoxd-Quick-Wrapped](https://github.com/DeepSingha420/LetterBoxd-Quick-Wrapped.git)
+
 cd letterboxd-wrapped
 
 
 **Create a virtual environment (optional but recommended):**
+
 python -m venv venv
 
 ### Windows
